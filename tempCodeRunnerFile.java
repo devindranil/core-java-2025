@@ -1,2 +1,2 @@
 
-    public static void main(String[] args) {
+       t2.display();
